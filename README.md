@@ -1,63 +1,42 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Ivan Vasquez
 
-###
+**Full Stack Software Engineer** · Mexico
 
-<p align="left">My name is Iván and I'm a Full Stack Developer from Mexico 🇲🇽</p>
+I build web applications and backend systems with Ruby on Rails, Node.js, TypeScript, React, and PostgreSQL. My work spans software architecture, API development, third-party integrations, and delivery through deployment and production support.
 
-###
+I work directly with clients to understand their requirements and explain technical decisions, and with engineering teams to turn those decisions into working software.
 
-<h2 align="left">About me</h2>
+## What I work on
 
-###
+- **Backend development:** REST APIs, business logic, data modeling, authentication, authorization, and background processing.
+- **Software architecture:** service boundaries, integration patterns, event-driven workflows, and maintainable application structure.
+- **Reliable integrations:** webhooks, transactional processing, retries, and idempotency.
+- **Delivery and operations:** Docker, CI/CD, AWS, monitoring, and production troubleshooting.
+- **Engineering collaboration:** requirements analysis, technical documentation, code review, and mentoring.
 
-<p align="left">
-✨ Creating bugs since 2022<br>
-📚 I'm currently learning system design and testing strategies<br>
-🎯 Goals: Build high-quality, scalable web apps and contribute to open source<br>
-🎲 Fun fact: I started programming to help a friend build a website for his business, and from there, I got deeply interested in web development!
-</p>
+At **Xdevelop**, my responsibilities have grown from backend development into software architecture. Previously, I worked on Ruby on Rails and Node.js applications at **Devuff**.
 
-<h2 align="left">I code with</h2>
+## Technologies
 
-###
+| Area | Stack |
+| --- | --- |
+| Backend | Ruby, Ruby on Rails, Node.js, NestJS, TypeScript, Django REST Framework |
+| Frontend | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
+| Data | PostgreSQL, SQL, Redis, ActiveRecord, Prisma, MongoDB |
+| Testing | RSpec, Jest, automated testing, TDD |
+| Delivery | AWS, Docker, GitHub Actions, CI/CD, Linux |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-</div>
+## Public projects
 
-###
+These repositories include personal projects and earlier learning work. They provide examples of my code at different stages; my professional work is described above.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanVasquez289&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+| Project | Focus |
+| --- | --- |
+| [Inventory API](https://github.com/IvanVasquez289/inventory_manager) | Next.js and TypeScript API with JWT authentication, product management, Prisma, and Docker |
+| [Personal finance app](https://github.com/IvanVasquez289/finanzas-personales) | Personal finance PWA using Next.js, TypeScript, Prisma, and PostgreSQL |
+| [Chat backend](https://github.com/IvanVasquez289/CHAT_APP_BACKEND) | Node.js and TypeScript backend with MongoDB, JWT authentication, and Socket.IO |
+| [Food kiosk](https://github.com/IvanVasquez289/Quiosco_next_ts) | Next.js and TypeScript application for ordering and product management with Prisma and PostgreSQL |
 
-###
+## Connect
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/iván-vasquez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-
-###
+[LinkedIn](https://www.linkedin.com/in/ivanvasquez1)
