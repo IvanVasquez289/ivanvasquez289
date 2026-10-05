@@ -26,17 +26,6 @@ At **Xdevelop**, my responsibilities have grown from backend development into so
 | Testing | RSpec, Jest, automated testing, TDD |
 | Delivery | AWS, Docker, GitHub Actions, CI/CD, Linux |
 
-## Public projects
-
-These repositories include personal projects and earlier learning work. They provide examples of my code at different stages; my professional work is described above.
-
-| Project | Focus |
-| --- | --- |
-| [Inventory API](https://github.com/IvanVasquez289/inventory_manager) | Next.js and TypeScript API with JWT authentication, product management, Prisma, and Docker |
-| [Personal finance app](https://github.com/IvanVasquez289/finanzas-personales) | Personal finance PWA using Next.js, TypeScript, Prisma, and PostgreSQL |
-| [Chat backend](https://github.com/IvanVasquez289/CHAT_APP_BACKEND) | Node.js and TypeScript backend with MongoDB, JWT authentication, and Socket.IO |
-| [Food kiosk](https://github.com/IvanVasquez289/Quiosco_next_ts) | Next.js and TypeScript application for ordering and product management with Prisma and PostgreSQL |
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ivanvasquez1)
