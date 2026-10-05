@@ -14,8 +14,6 @@ I work directly with clients to understand their requirements and explain techni
 - **Delivery and operations:** Docker, CI/CD, AWS, monitoring, and production troubleshooting.
 - **Engineering collaboration:** requirements analysis, technical documentation, code review, and mentoring.
 
-At **Xdevelop**, my responsibilities have grown from backend development into software architecture. Previously, I worked on Ruby on Rails and Node.js applications at **Devuff**.
-
 ## Technologies
 
 | Area | Stack |
