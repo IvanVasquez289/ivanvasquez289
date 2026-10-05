@@ -2,9 +2,11 @@
 
 **Full Stack Software Engineer** · Mexico
 
-I build web applications and backend systems with Ruby on Rails, Node.js, TypeScript, React, and PostgreSQL. My work spans software architecture, API development, third-party integrations, and delivery through deployment and production support.
+I'm a full stack software engineer with a backend focus. I build web applications and backend systems with Ruby on Rails, Node.js, TypeScript, React, and PostgreSQL. My work spans architecture, API development, integrations, deployment, and production support.
 
-I work directly with clients to understand their requirements and explain technical decisions, and with engineering teams to turn those decisions into working software.
+I enjoy turning business problems into working software. I work directly with clients to understand their requirements and explain technical decisions, and with engineering teams to bring those ideas through to delivery.
+
+I care about maintainable code, reliable systems, and understanding the trade-offs behind a solution. AI-assisted development is part of my everyday workflow.
 
 ## What I work on
 
